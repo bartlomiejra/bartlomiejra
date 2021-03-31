@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bart and i love Webdev.
--🌱 I’m currently learning React.js
--💬 Ask me about Anythink
+ -🌱 I’m currently learning React.js
+ -💬 Ask me about Anythink
  
  
 
