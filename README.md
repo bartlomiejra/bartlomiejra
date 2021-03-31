@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bart and i love Webdev.
+### Hi there 👋 I'm Bart and I love Webdev.
 
 
  -🌱 I’m currently learning React.js
