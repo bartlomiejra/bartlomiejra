@@ -6,7 +6,7 @@
  -💬 Ask me about Anythink
  
  
-[![bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejra)](https://github.com/bartlomiejra&theme=dark&how_icons=true)
+[![bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejra)](https://github.com/bartlomiejra&theme=chartreuse-dark&how_icons=true)
 ![bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejra&theme=dark&show_icons=true)
 
 
