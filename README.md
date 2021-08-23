@@ -6,7 +6,7 @@
  -💬 Ask me about Anythink
  
  
-[![bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejra)](https://github.com/bartlomiejra/github-readme-stats)
+[![bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejra)](https://github.com/bartlomiejra@theme=dark/github-readme-stats)
 
 
 <!--
