@@ -1,7 +1,8 @@
-### Hi there 👋 I'm Bart and I love Webdev.
+### Hi there 👋 I'm Bart and I love front-end. 
 
+I think the value of a human being is how they helps mankind. I want to create websites and an applications that will be both beautiful and functional. From my point of view the most important things in development is pragmatism andaccessibility.
 
- -🌱 I’m currently learning React.js
+ -🌱 I am currently looking for a job and learning React.js
  
  -💬 Ask me about Anythink
  
