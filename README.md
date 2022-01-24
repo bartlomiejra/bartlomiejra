@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bart and I love front-end. 
+### Welcome to my github account 👋 I'm bart and I love the front-end
 
 I think the value of a human being is how they helps mankind. I want to create websites and an applications that will be both beautiful and functional. From my point of view the most important things in development is pragmatism and accessibility.
 
